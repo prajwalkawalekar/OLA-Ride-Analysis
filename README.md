@@ -142,5 +142,5 @@ It highlights how data-driven insights can help ride-hailing platforms improve o
 ## Author
 
 **Prajwal Kawalekar**
-Aspiring Data Analyst
+Aspiring Data Analyst /n
 Tools: Excel | SQL | Power BI
